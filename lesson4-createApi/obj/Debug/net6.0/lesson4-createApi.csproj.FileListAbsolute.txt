@@ -1,0 +1,82 @@
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.exe
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.runtimeconfig.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\scopedcss\bundle\lesson4-createApi.styles.css
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.csproj.CopyComplete
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\refint\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.genruntimeconfig.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson4-CreateApi\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\ref\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.exe
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.runtimeconfig.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\scopedcss\bundle\lesson4-createApi.styles.css
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.csproj.CopyComplete
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\refint\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.genruntimeconfig.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson6-UnixTest\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\ref\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.exe
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.deps.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.runtimeconfig.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\lesson4-createApi.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\CsvHelper.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.AssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\scopedcss\bundle\lesson4-createApi.styles.css
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.csproj.CopyComplete
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\refint\lesson4-createApi.dll
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.pdb
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\lesson4-createApi.genruntimeconfig.cache
+Y:\Groups\Group_3\ניזרי  תאיר יהודית\.NET core\lesson7-suspension injection\lesson4-createApi\lesson4-createApi\obj\Debug\net6.0\ref\lesson4-createApi.dll
